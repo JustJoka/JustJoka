@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre mim
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas  
-- 💡 Focado em Python, Django, Tkinter e Desenvolvimento Web  
+- 💡 Focado em Python, Tkinter, Desenvolvimento Web e React Native
 - 💻 Criando sistemas completos: CRUD, dashboards, relatórios e integrações  
 - 🎯 Objetivo: me tornar Desenvolvedor Full Stack  
 - ⚡ Fun fact: Eu sempre tento deixar meus projetos mais bonitos do que deveriam ser 😅  
