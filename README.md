@@ -38,6 +38,11 @@
 - 🎨 **Interfaces modernas e responsivas**  
 - ⚙️ **Validação de dados, máscaras e boas práticas**
 
+---
+### 🎓 Certificações & Cursos
+- **AWS Academy Cloud Foundations** – Conceitos de computação em nuvem, serviços básicos da AWS, arquitetura, segurança e boas práticas.
+
+
 ## 📊 Estatísticas do GitHub
 ![Joka's GitHub Stats](https://github-readme-stats-git-master-jokes.vercel.app/api?username=JustJoka&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustJoka&layout=compact&theme=tokyonight)
