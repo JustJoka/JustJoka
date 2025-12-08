@@ -12,7 +12,7 @@
 ## 🚀 Sobre mim
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas  
 - 💡 Focado em Python, Tkinter, Desenvolvimento Web e React Native
-- 💻 Criador sistemas completos: CRUD, dashboards, relatórios e integrações  
+- 💻 Criador de sistemas completos: CRUD, dashboards, relatórios e integrações  
 - 🎯 Objetivo: me tornar Desenvolvedor Full Stack  
 ⚡ Fun fact: Às vezes o bug era só um ponto e vírgula mesmo 😐
 
