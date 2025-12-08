@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- Banner -->
 <p align="center">
   <img src="https://i.imgur.com/6M7ZyQ8.gif" width="600"/>
