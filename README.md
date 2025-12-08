@@ -48,10 +48,9 @@
 ---
 
 ## 📫 Como me encontrar
-[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://SEUSITE.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USER)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&logoColor=white)](https://github.com/SEU_USER)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram&logoColor=white)](https://instagram.com/SEU_USER)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:redlinexdbr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/joao-vinicius-batista-3a756b330)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&logoColor=white)](https://github.com/JustJoka)
 
 ---
 
