@@ -65,8 +65,8 @@ Projeto visual com animações e efeitos.
 ---
 
 ## 📫 Como me encontrar
-- 📧 Email: **SEU EMAIL**
-- 💼 LinkedIn: **SEU LINK**
+- 📧 Email: **redlinexdbr@gmail.com*
+- 💼 LinkedIn: **www.linkedin.com/in/joao-vinicius-batista-3a756b330**
 
 ---
 
