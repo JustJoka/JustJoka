@@ -42,10 +42,8 @@
 - ⚙️ **Validação de dados, máscaras e boas práticas**
 
 ## 📊 Estatísticas do GitHub
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JustJoka&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustJoka&layout=compact&theme=tokyonight" />
-</p>
+![Joka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustJoka&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustJoka&layout=compact&theme=tokyonight)
 
 ---
 
