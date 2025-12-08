@@ -53,6 +53,8 @@
 
 ---
 
+![Snake animation](https://github.com/JustJoka/JustJoka/blob/output/github-contribution-grid-snake.svg)
+
 <p align="center">💙 Obrigado por visitar meu perfil!</p>
 
 ustJoka/JustJoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
