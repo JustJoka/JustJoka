@@ -31,7 +31,7 @@
 </p>
 
 ## 🧰 O que você vai encontrar nos meus projetos
-- 🖥️ **Sistemas desktop completos** com Python + Tkinter  
+- 🖥️ **Sistemas desktop completos** com Python + Tkinter  e Flet
 - 🗂️ **CRUDs profissionais** usando SQLite   
 - 🌐 **Desenvolvimento Web** (HTML, CSS, JS, Bootstrap)  
 - 📱 **Apps com React Native**  
