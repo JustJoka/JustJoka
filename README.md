@@ -42,7 +42,7 @@
 - ⚙️ **Validação de dados, máscaras e boas práticas**
 
 ## 📊 Estatísticas do GitHub
-![Joka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustJoka&show_icons=true&theme=tokyonight)
+![Joka's GitHub Stats](https://github-readme-stats-git-master-jokes.vercel.app/api?username=JustJoka&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustJoka&layout=compact&theme=tokyonight)
 
 ---
