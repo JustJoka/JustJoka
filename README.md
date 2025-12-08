@@ -32,29 +32,14 @@
   <img src="https://skillicons.dev/icons?i=django,sqlite,react,bootstrap,git,github,vscode" />
 </p>
 
----
-
-## 📌 Meus Projetos Principais
-### 🔥 **Sistema de Controle de Academia (Tkinter + SQLite)**
-Gerenciamento de alunos, mensalidades, relatórios PDF e interface moderna.
-
-🔗 **Repositório:** *[clique aqui](COLOQUE O LINK)*
-
----
-
-### 🍔 **Sistema de Lanchonete (Python + Tkinter + SQLite + PDF)**  
-Controle de pedidos, CRUD completo, imagens e exportação.
-
-🔗 **Repositório:** *[clique aqui](COLOQUE O LINK)*
-
----
-
-### 🌳 **Árvore IPE Interativa (HTML/CSS/JS)**  
-Projeto visual com animações e efeitos.
-
-🔗 **Repositório:** *[clique aqui](COLOQUE O LINK)*
-
----
+## 🧰 O que você vai encontrar nos meus projetos
+- 🖥️ **Sistemas desktop completos** com Python + Tkinter  
+- 🗂️ **CRUDs profissionais** usando SQLite  
+- 📄 **Relatórios automáticos** em PDF  
+- 🌐 **Desenvolvimento Web** (HTML, CSS, JS, Bootstrap)  
+- 📱 **Apps com React Native**  
+- 🎨 **Interfaces modernas e responsivas**  
+- ⚙️ **Validação de dados, máscaras e boas práticas**
 
 ## 📊 Estatísticas do GitHub
 <p align="center">
