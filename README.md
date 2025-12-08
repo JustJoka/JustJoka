@@ -5,7 +5,7 @@
 
 <h1 align="center">👋 Olá, eu sou o João Vinicius</h1>
 
-<p align="center">Desenvolvedor apaixonado por criar soluções práticas e bonitas usando Python, Tkinter, React Native, Web e muito mais.</p>
+<p align="center">Desenvolvedor apaixonado por criar soluções práticas, bonitas e acessíveis usando Python, Tkinter, React Native, Web e muito mais.</p>
 
 ---
 
