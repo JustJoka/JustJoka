@@ -41,7 +41,7 @@
 ---
 ### 🎓 Certificações & Cursos
 - **AWS Academy Cloud Foundations** – Conceitos de computação em nuvem, serviços básicos da AWS, arquitetura, segurança e boas práticas.
-[📜 Ver Certificado](https://www.credly.com/badges/85031672-fd4c-4535-a5c5-e8c7fd07247f/public_url)
+      [📜 Ver Certificado](https://www.credly.com/badges/85031672-fd4c-4535-a5c5-e8c7fd07247f/public_url)
 
 
 ## 📊 Estatísticas do GitHub
