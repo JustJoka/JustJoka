@@ -48,8 +48,10 @@
 ---
 
 ## 📫 Como me encontrar
-- 📧 Email: **redlinexdbr@gmail.com*
-- 💼 LinkedIn: **www.linkedin.com/in/joao-vinicius-batista-3a756b330**
+[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://SEUSITE.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USER)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&logoColor=white)](https://github.com/SEU_USER)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram&logoColor=white)](https://instagram.com/SEU_USER)
 
 ---
 
