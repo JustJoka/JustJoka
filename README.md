@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/6M7ZyQ8.gif" width="600"/>
+  <img src="https://github.com/JustJoka/JustJoka/blob/main/Banner.png?raw=true" width="600"/>
 </p>
 
 <h1 align="center">👋 Olá, eu sou o João Vinicius</h1>
