@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/6M7ZyQ8.gif" width="600"/>
 </p>
 
-<h1 align="center">👋 Olá, eu sou o Joka</h1>
+<h1 align="center">👋 Olá, eu sou o João Vinicius</h1>
 
 <p align="center">Desenvolvedor apaixonado por criar soluções práticas e bonitas usando Python, Tkinter, React Native, Web e muito mais.</p>
 
