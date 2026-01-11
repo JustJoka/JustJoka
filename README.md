@@ -13,7 +13,7 @@
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas  
 - 💡 Focado em Python, Tkinter, Desenvolvimento Web e React Native
 - 💻 Criador de sistemas completos: CRUD, dashboards, relatórios e integrações  
-- 🎯 Objetivo: me tornar Desenvolvedor Full Stack  
+- 🎯 Objetivo: atuar como Desenvolvedor Full Stack Júnior ou Estagiário em Desenvolvimento de Software.
 - Tenho atenção a detalhes e foco em qualidade de código.
 
 ---
