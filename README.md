@@ -5,7 +5,7 @@
 
 <h1 align="center">👋 Olá, eu sou o João Vinicius</h1>
 
-<p align="center">Desenvolvedor apaixonado por criar soluções práticas, bonitas e acessíveis usando Python, Tkinter, React Native, Web e muito mais.</p>
+<p align="center">Desenvolvedor Full Stack em formação, focado em Python, Web, aplicações com interface gráfica, React Native, Web e muito mais.</p>
 
 ---
 
@@ -14,7 +14,7 @@
 - 💡 Focado em Python, Tkinter, Desenvolvimento Web e React Native
 - 💻 Criador de sistemas completos: CRUD, dashboards, relatórios e integrações  
 - 🎯 Objetivo: me tornar Desenvolvedor Full Stack  
-⚡ Fun fact: Às vezes o bug era só um ponto e vírgula mesmo 😐
+- Tenho atenção a detalhes e foco em qualidade de código.
 
 ---
 
