@@ -5,7 +5,7 @@
 
 <h1 align="center">👋 Olá, eu sou o João Vinicius</h1>
 
-<p align="center">Desenvolvedor Full Stack em formação, focado em Python, Web, aplicações com interface gráfica, React Native e muito mais.</p>
+<p align="center">Desenvolvedor Full Stack em formação, focado em Python, Web, aplicações com interface gráfica e React Native</p>
 
 ---
 
