@@ -27,7 +27,7 @@
 
 ### 🛠️ Ferramentas e Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=sqlite,react,bootstrap,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=sqlite,react,bootstrap,git,github,vscode,pandas" />
 </p>
 
 ## 🧰 O que você vai encontrar nos meus projetos
